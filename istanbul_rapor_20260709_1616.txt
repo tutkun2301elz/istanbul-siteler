@@ -1,0 +1,46 @@
+============================================================
+FATİH-İSTANBUL RAPORU
+Tarih: 09.07.2026 16:16
+============================================================
+
+Toplam Dönüştürülen Site: 7
+Aylık Kiralama Geliri: 10500 TL
+Tahmini Satış Değeri: 252000 TL
+
+DETAYLI LİSTE:
+------------------------------------------------------------
+1. https://www.istanbulavukat.com
+   Başlık: Başlık yok
+   Sorunlar: Başlık zayıf, Meta açıklama yok, Az içerik, Mobil uyumsuz
+   Dosya: www.istanbulavukat.com.html
+----------------------------------------
+2. https://www.istanbulavukat.com
+   Başlık: Başlık yok
+   Sorunlar: Başlık zayıf, Meta açıklama yok, Az içerik, Mobil uyumsuz
+   Dosya: www.istanbulavukat.com.html
+----------------------------------------
+3. https://www.istanbulavukat.com
+   Başlık: Başlık yok
+   Sorunlar: Yavaş açılıyor, Başlık zayıf, Meta açıklama yok, Az içerik, Mobil uyumsuz
+   Dosya: www.istanbulavukat.com.html
+----------------------------------------
+4. https://www.istanbulavukat.com
+   Başlık: Başlık yok
+   Sorunlar: Başlık zayıf, Meta açıklama yok, Az içerik, Mobil uyumsuz
+   Dosya: www.istanbulavukat.com.html
+----------------------------------------
+5. https://www.istanbulavukat.com
+   Başlık: Başlık yok
+   Sorunlar: Başlık zayıf, Meta açıklama yok, Az içerik, Mobil uyumsuz
+   Dosya: www.istanbulavukat.com.html
+----------------------------------------
+6. https://www.istanbulavukat.com
+   Başlık: Başlık yok
+   Sorunlar: Başlık zayıf, Meta açıklama yok, Az içerik, Mobil uyumsuz
+   Dosya: www.istanbulavukat.com.html
+----------------------------------------
+7. https://www.istanbulavukat.com
+   Başlık: Başlık yok
+   Sorunlar: Başlık zayıf, Meta açıklama yok, Az içerik, Mobil uyumsuz
+   Dosya: www.istanbulavukat.com.html
+----------------------------------------
